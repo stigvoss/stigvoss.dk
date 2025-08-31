@@ -1,9 +1,15 @@
-+++
-categories = ['dotnet', 'security', 'certificates', 'self-signed']
-date = "2023-11-17T20:15:00Z"
-title = "Custom Root Trust with HttpClient in .NET"
-aliases = ['/2023/11/17/custom-root-trust-for-httpclient/', '/2023/11/17/custom-root-trust-for-httpclient']
-+++
+---
+aliases:
+- /2023/11/17/custom-root-trust-for-httpclient/
+- /2023/11/17/custom-root-trust-for-httpclient
+categories:
+- dotnet
+- security
+- certificates
+- self-signed
+date: "2023-11-17T20:15:00Z"
+title: Custom Root Trust with HttpClient in .NET
+---
 
 Custom root trust is a security practice where an application or system is configured to trust 
 only a specific set of root certificates. This approach restricts the application's trust to a 

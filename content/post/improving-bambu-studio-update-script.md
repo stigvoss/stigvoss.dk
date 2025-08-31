@@ -1,9 +1,13 @@
-+++
-categories = ['fedora', 'bambu-studio']
-date = "2023-11-03T20:50:00Z"
-title = "Improving the Bambu Studio Update Script for Linux"
-aliases = ['/2023/10/30/improving-bambu-studio-update-script/', '/2023/10/30/improving-bambu-studio-update-script']
-+++
+---
+aliases:
+- /2023/10/30/improving-bambu-studio-update-script/
+- /2023/10/30/improving-bambu-studio-update-script
+categories:
+- fedora
+- bambu-studio
+date: "2023-11-03T20:50:00Z"
+title: Improving the Bambu Studio Update Script for Linux
+---
 
 **UPDATE**: Bambu Studio has now been released as a [Flatpak](https://flathub.org/apps/com.bambulab.BambuStudio) and if you run an operating system supporting Flatpak, I would highly suggest using that instead. Huge thanks to [hadess](https://github.com/hadess) and may I suggest [thanking him through his wishlist](https://github.com/flathub/com.bambulab.BambuStudio#saying-thanks).
 

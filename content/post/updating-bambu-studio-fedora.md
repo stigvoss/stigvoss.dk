@@ -1,9 +1,13 @@
-+++
-categories = ['fedora', 'bambu-studio']
-date = "2023-10-30T20:50:00Z"
-title = "Updating Bambu Studio on Fedora Linux"
-aliases = ['/2023/10/30/updating-bambu-studio-fedora/', '/2023/10/30/updating-bambu-studio-fedora']
-+++
+---
+aliases:
+- /2023/10/30/updating-bambu-studio-fedora/
+- /2023/10/30/updating-bambu-studio-fedora
+categories:
+- fedora
+- bambu-studio
+date: "2023-10-30T20:50:00Z"
+title: Updating Bambu Studio on Fedora Linux
+---
 
 **UPDATE**: Consider taking a look at the the improved script [here](/2023/10/30/improving-bambu-studio-update-script/).
 

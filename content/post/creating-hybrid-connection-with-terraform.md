@@ -1,9 +1,15 @@
-+++
-categories = ['terraform', 'azurerm', 'hybrid-connection', 'azure']
-date = "2023-11-16T15:00:00Z"
-title = "Workarounds for creating Azure Hybrid Connections with Terraform"
-aliases = ['/2023/11/16/creating-hybrid-connection-with-terraform/', '/2023/11/16/creating-hybrid-connection-with-terraform']
-+++
+---
+aliases:
+- /2023/11/16/creating-hybrid-connection-with-terraform/
+- /2023/11/16/creating-hybrid-connection-with-terraform
+categories:
+- terraform
+- azurerm
+- hybrid-connection
+- azure
+date: "2023-11-16T15:00:00Z"
+title: Workarounds for creating Azure Hybrid Connections with Terraform
+---
 
 **UPDATE**: The [bug](https://github.com/hashicorp/terraform-provider-azurerm/issues/13054) has been fixed and released in [3.98](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.98.0). The workarounds are no longer needed.
 

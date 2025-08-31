@@ -1,9 +1,14 @@
-+++
-categories = ['fedora', 'fedora-silverblue', 'bambu-studio']
-date = "2023-10-30T20:15:00Z"
-title = "Bambu Studio on Fedora Silverblue"
-aliases = ['/2023/10/30/bambu-studio-on-fedora-silverblue/', '/2023/10/30/bambu-studio-on-fedora-silverblue']
-+++
+---
+aliases:
+- /2023/10/30/bambu-studio-on-fedora-silverblue/
+- /2023/10/30/bambu-studio-on-fedora-silverblue
+categories:
+- fedora
+- fedora-silverblue
+- bambu-studio
+date: "2023-10-30T20:15:00Z"
+title: Bambu Studio on Fedora Silverblue
+---
 
 **UPDATE**: Bambu Studio has now been released as a [Flatpak](https://flathub.org/apps/com.bambulab.BambuStudio). Huge thanks to [hadess](https://github.com/hadess) and may I suggest [thanking him through his wishlist](https://github.com/flathub/com.bambulab.BambuStudio#saying-thanks).
 

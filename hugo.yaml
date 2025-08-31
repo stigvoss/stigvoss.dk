@@ -2,3 +2,10 @@ baseURL: 'https://stigvoss.dk/'
 languageCode: 'en-us'
 title: 'stig voss'
 theme: "PaperMod"
+
+menu:
+  main:
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 10
